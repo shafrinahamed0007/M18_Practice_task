@@ -16,6 +16,7 @@ function countVowels(sentence) {
       sentences == "i" ||
       sentences == "o" ||
       sentences == "u"
+      
     ) {
       vowels.push(sentences);
     }
